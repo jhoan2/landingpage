@@ -1,9 +1,10 @@
-import React from 'react'
+import React from 'react';
+import Header from './Citylife/Header';
 
 export default function citylife() {
     return (
         <div>
-            <h1>City Life</h1>
+           <Header />
         </div>
     )
 }
