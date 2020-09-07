@@ -1,0 +1,6 @@
+.ulnavbar {
+    background-color:#FFEBCF;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+}
