@@ -1,0 +1,12 @@
+.nature-container {
+    background-image: url(./assets/naturehero.jpg);
+    height: 878px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.naturehero {
+    color: white;
+    
+}

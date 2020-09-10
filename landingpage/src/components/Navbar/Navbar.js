@@ -7,7 +7,7 @@ import {
 } from "react-router-dom";
 import Citylife from '../Citylife';
 import Food from '../Food';
-import Nature from '../Nature';
+import Nature from '../Nature/Nature';
 import Home from '../Home';
 import '../Navbar/Navbar.css'
 
